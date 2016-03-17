@@ -1,0 +1,20 @@
+{
+  "name": "cesctools",
+  "version": "0.0.1",
+  "description": "cesclong's quick game tools.usage: git and run quick-cocos2d-x game etc",
+  "main": "main.js",
+  "dependencies" :{
+    "shelljs" : "^0.6.0",
+    "glob" : "^7.0.3",
+    "commander" : "^2.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quick",
+    "tools"
+  ],
+  "author": "cesclong",
+  "license": "ISC"
+}

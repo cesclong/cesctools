@@ -19,3 +19,5 @@ function gitMerge(mergeName)
 
 
 module.exports.gitPull = gitPull;
+module.exports.gitPush = gitPush;
+module.exports.gitMerge = gitMerge;
